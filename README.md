@@ -1,5 +1,5 @@
 # VNLab
-VNLab (Virtual Network Lab) é um projeto com o objetivo de criar um ambiente virtual para fins didáticos para professores e alunos que desejam criar redes virtuais simulando serviços de redes, firewalls, entre outros.
+**VNLab** (Virtual Network Lab) é um projeto com o objetivo de criar um ambiente virtual para fins didáticos para professores e alunos que desejam criar redes virtuais simulando serviços de redes, firewalls, entre outros.
 
 Por enquanto, o projeto será disponibilizado apenas em PT-BR, porém, em um futuro, poderá aceitar traduções.
 
@@ -9,8 +9,8 @@ Procedimentos para instala&ccedil;&atilde;o da VNLab:
 Execute no terminal os seguintes comandos:
 
 
-``` bash
-wget http://vnlab.patrickkaminski.com/install.sh
+``` shell
+wget http://bit.ly/VNLab
 chmod +x install.sh
 ./install.sh
 ```
